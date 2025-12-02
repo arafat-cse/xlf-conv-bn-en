@@ -81,6 +81,20 @@ pip install deep-translator tqdm
 python xlfConvater.py --input "input.xlf" --output "output_English.xlf"
 ```
 
+## Web Interface (Tailwind UI)
+
+If you prefer a Tailwind CSS dashboard with input/output text areas (paste content, convert, copy, and download), launch the bundled Flask app:
+
+```bash
+# install all dependencies
+pip install -r requirements.txt
+
+# start the local server
+python app.py
+```
+
+Open the browser at http://localhost:8000, paste the contents of your `input.xlf` into the textarea, hit **Convert**, then copy the rendered English XML or download the generated file. Outputs live inside the `converted/` folder so you can expose them through Nginx or any other server.
+
 ## Script Features
 
 - **Translation**: Converts Bangla text in XLIFF files to English
