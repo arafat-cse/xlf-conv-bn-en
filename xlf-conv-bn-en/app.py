@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import tempfile
 import uuid
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from flask import Flask, jsonify, render_template, request, send_from_directory
@@ -14,6 +15,40 @@ OUTPUT_DIR = BASE_DIR / "converted"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
 app = Flask(__name__)
+
+
+def validate_xlf_file(file_path: Path):
+    """Return (is_valid, payload). Payload contains either stats or error text."""
+    try:
+        tree = ET.parse(file_path)
+    except ET.ParseError as exc:
+        return False, {"error": f"Invalid XLF XML: {exc}"}
+
+    root = tree.getroot()
+    namespaces = [
+        {"xliff": "urn:oasis:names:tc:xliff:document:1.2"},
+        {},
+    ]
+    trans_units = []
+    for ns in namespaces:
+        xpath = ".//xliff:trans-unit" if ns else ".//trans-unit"
+        trans_units = root.findall(xpath, ns)
+        if trans_units:
+            break
+
+    if not trans_units:
+        return False, {"error": "No <trans-unit> nodes found in the XLF payload."}
+
+    total_units = len(trans_units)
+    missing_sources = 0
+    for unit in trans_units:
+        source = unit.find("xliff:source", {"xliff": "urn:oasis:names:tc:xliff:document:1.2"})
+        if source is None:
+            source = unit.find("source")
+        if source is None or not (source.text or "").strip():
+            missing_sources += 1
+
+    return True, {"total_units": total_units, "missing_sources": missing_sources}
 
 
 @app.get("/")
@@ -47,6 +82,11 @@ def api_convert():
     else:
         return jsonify({"error": "Provide an XLF file or paste the XML text."}), 400
 
+    is_valid, validation_payload = validate_xlf_file(temp_input_path)
+    if not is_valid:
+        temp_input_path.unlink(missing_ok=True)
+        return jsonify(validation_payload), 400
+
     output_name = f"{Path(safe_input_name).stem or 'converted'}_{uuid.uuid4().hex[:8]}_English.xlf"
     output_path = OUTPUT_DIR / output_name
 
@@ -65,6 +105,7 @@ def api_convert():
             "outputPath": str(output_path.resolve()),
             "outputText": output_text,
             "fileName": output_name,
+            "stats": validation_payload,
         }
     )
 

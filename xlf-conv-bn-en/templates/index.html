@@ -77,6 +77,20 @@
                         <p id="statusMessage" class="text-base font-medium text-slate-200">Waiting for input...</p>
                         <p id="errorMessage" class="text-sm text-rose-300 hidden"></p>
                     </div>
+                    <div id="statsPanel"
+                        class="hidden rounded-2xl border border-white/5 bg-slate-900/60 p-4 space-y-3 text-sm text-slate-300">
+                        <p class="text-xs uppercase tracking-wide text-slate-400">Validation Summary</p>
+                        <div class="grid gap-3 sm:grid-cols-2">
+                            <div class="rounded-xl border border-slate-800 bg-slate-950/40 p-3">
+                                <p class="text-xs text-slate-400 uppercase tracking-wide">Total Units</p>
+                                <p id="totalUnits" class="text-2xl font-semibold text-emerald-300">0</p>
+                            </div>
+                            <div class="rounded-xl border border-slate-800 bg-slate-950/40 p-3">
+                                <p class="text-xs text-slate-400 uppercase tracking-wide">Missing Sources</p>
+                                <p id="missingSources" class="text-2xl font-semibold text-amber-300">0</p>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="space-y-2">
                         <div class="flex flex-wrap items-center gap-2 justify-between">
@@ -176,6 +190,9 @@
         const copyToast = document.getElementById("copyToast");
         const inputArea = document.getElementById("xlfInput");
         const outputArea = document.getElementById("xlfOutput");
+        const statsPanel = document.getElementById("statsPanel");
+        const totalUnitsEl = document.getElementById("totalUnits");
+        const missingSourcesEl = document.getElementById("missingSources");
         let downloadUrl = "";
 
         function showToast(element, message) {
@@ -212,6 +229,9 @@
             downloadButton.disabled = true;
             copyOutputButton.disabled = true;
             copyPathButton.disabled = true;
+            statsPanel.classList.add("hidden");
+            totalUnitsEl.textContent = "0";
+            missingSourcesEl.textContent = "0";
         });
 
         downloadButton.addEventListener("click", () => {
@@ -236,6 +256,7 @@
             copyPathButton.disabled = true;
             errorMessage.classList.add("hidden");
             statusMessage.textContent = "Translating... please wait.";
+            statsPanel.classList.add("hidden");
 
             try {
                 const response = await fetch("/api/convert", {
@@ -256,11 +277,17 @@
                 downloadButton.disabled = false;
                 copyOutputButton.disabled = false;
                 copyPathButton.disabled = false;
+                if (payload.stats) {
+                    totalUnitsEl.textContent = payload.stats.total_units ?? 0;
+                    missingSourcesEl.textContent = payload.stats.missing_sources ?? 0;
+                    statsPanel.classList.remove("hidden");
+                }
             } catch (error) {
                 errorMessage.textContent = error.message;
                 errorMessage.classList.remove("hidden");
                 statusMessage.textContent = "Conversion failed.";
                 downloadUrl = "";
+                statsPanel.classList.add("hidden");
             } finally {
                 convertButton.disabled = false;
                 convertButton.textContent = "Convert";
