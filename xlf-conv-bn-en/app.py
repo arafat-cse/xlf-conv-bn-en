@@ -45,7 +45,7 @@ def api_convert():
             tmp.write(pasted_text)
             temp_input_path = Path(tmp.name)
     else:
-        return jsonify({"error": "একটি XLF ফাইল অথবা টেক্সট প্রদান করুন।"}), 400
+        return jsonify({"error": "Provide an XLF file or paste the XML text."}), 400
 
     output_name = f"{Path(safe_input_name).stem or 'converted'}_{uuid.uuid4().hex[:8]}_English.xlf"
     output_path = OUTPUT_DIR / output_name
