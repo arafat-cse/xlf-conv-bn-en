@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="bn" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="460742981450268191" datatype="html">
+        <source>আস-সুন্নাহ ফাউন্ডেশন</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1100323898745262285" datatype="html">
+        <source>দান করুন</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">65,66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/hero/hero.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="668883413008940263" datatype="html">
+        <source>কার্যক্রম</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">74,75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1315997691484930450" datatype="html">
+        <source>শিক্ষা কার্যক্রম</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">78,79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      
+      <trans-unit id="6217609508076754493" datatype="html">
+        <source>উম্মাহর স্বার্থে, সুন্নাহর সাথে - ইসলামিক শিক্ষা, দাওয়াহ এবং সামাজিক কল্যাণে নিবেদিত একটি সংস্থা।</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9211490295332197549" datatype="html">
+        <source>আস-সুন্নাহ ফাউন্ডেশন। সর্বস্বত্ব সংরক্ষিত।</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8967151401405637388" datatype="html">
+        <source>ইনস্টাগ্রাম</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
