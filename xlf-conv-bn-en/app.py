@@ -2,13 +2,13 @@ from __future__ import annotations
 
 import tempfile
 import uuid
-import xml.etree.ElementTree as ET
 from pathlib import Path
 
 from flask import Flask, jsonify, render_template, request, send_from_directory
 from werkzeug.utils import secure_filename
 
 from xlfConvater import translate_xlf_to_english
+from xlf_utils import XLFParseError, parse_xlf_document
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "converted"
@@ -20,10 +20,11 @@ app = Flask(__name__)
 def validate_xlf_file(file_path: Path):
     """Return (is_valid, payload). Payload contains either stats or error text."""
     try:
-        tree = ET.parse(file_path)
-    except ET.ParseError as exc:
+        parsed = parse_xlf_document(file_path)
+    except XLFParseError as exc:
         return False, {"error": f"Invalid XLF XML: {exc}"}
 
+    tree = parsed.tree
     root = tree.getroot()
     namespaces = [
         {"xliff": "urn:oasis:names:tc:xliff:document:1.2"},
@@ -48,7 +49,13 @@ def validate_xlf_file(file_path: Path):
         if source is None or not (source.text or "").strip():
             missing_sources += 1
 
-    return True, {"total_units": total_units, "missing_sources": missing_sources}
+    payload = {"total_units": total_units, "missing_sources": missing_sources}
+    if parsed.recovered:
+        payload["warnings"] = [
+            "Input XML contained structural issues that were auto-corrected before translation."
+        ]
+
+    return True, payload
 
 
 @app.get("/")

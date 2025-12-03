@@ -1,16 +1,22 @@
 import xml.etree.ElementTree as ET
 import os
 import argparse
+from pathlib import Path
 from deep_translator import GoogleTranslator
 from time import sleep
 from tqdm import tqdm
+
+from xlf_utils import XLFParseError, parse_xlf_document
 
 ET.register_namespace('', 'urn:oasis:names:tc:xliff:document:1.2')
 
 def translate_xlf_to_english(input_file, output_file):
     translator = GoogleTranslator(source='bn', target='en')
-    tree = ET.parse(input_file)
+    parsed = parse_xlf_document(Path(input_file))
+    tree = parsed.tree
     root = tree.getroot()
+    if parsed.recovered:
+        print("Warning: Input XML contained structural issues. Proceeding with recovered content.")
     ns = {'xliff': 'urn:oasis:names:tc:xliff:document:1.2'}
     trans_units = root.findall('.//xliff:trans-unit', ns)
     total_units = len(trans_units)
@@ -78,7 +84,10 @@ def main():
     args = parser.parse_args()
 
     if os.path.exists(args.input):
-        translate_xlf_to_english(args.input, args.output)
+        try:
+            translate_xlf_to_english(args.input, args.output)
+        except XLFParseError as exc:
+            print(f"Failed to parse input XLF: {exc}")
     else:
         print(f"Input file {args.input} not found")
 

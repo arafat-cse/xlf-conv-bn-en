@@ -41,7 +41,7 @@ source .venv/bin/activate
 
 ### 3. Install required packages
 ```bash
-pip install deep-translator tqdm
+pip install lxml deep-translator tqdm
 ```
 
 ## File Setup
@@ -88,7 +88,7 @@ source .venv/bin/activate  # Linux/Mac
 .venv\Scripts\activate     # Windows
 
 # 4. Install dependencies
-pip install deep-translator tqdm
+pip install lxml deep-translator tqdm
 
 # 5. Copy your files here (xlfConvater.py and input.xlf)
 
@@ -140,11 +140,11 @@ Translated XLF file saved as output_English.xlf
 ### If you encounter dependency issues:
 ```bash
 # Check if packages are installed
-pip list | grep -E "(deep-translator|tqdm)"
+pip list | grep -E "(lxml|deep-translator|tqdm)"
 
 # Reinstall if needed
-pip uninstall deep-translator tqdm -y
-pip install deep-translator tqdm
+pip uninstall lxml deep-translator tqdm -y
+pip install lxml deep-translator tqdm
 ```
 
 ### If you encounter file permission issues:
