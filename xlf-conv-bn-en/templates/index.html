@@ -201,25 +201,39 @@
             setTimeout(() => element.classList.add("opacity-0"), 1600);
         }
 
+        async function copyText(text) {
+            if (!text) return false;
+            try {
+                if (navigator.clipboard && window.isSecureContext) {
+                    await navigator.clipboard.writeText(text);
+                } else {
+                    const helper = document.createElement("textarea");
+                    helper.value = text;
+                    helper.setAttribute("readonly", "");
+                    helper.style.position = "absolute";
+                    helper.style.left = "-9999px";
+                    document.body.appendChild(helper);
+                    helper.select();
+                    document.execCommand("copy");
+                    document.body.removeChild(helper);
+                }
+                return true;
+            } catch (error) {
+                return false;
+            }
+        }
+
         copyPathButton.addEventListener("click", async () => {
             const text = outputLabel.textContent.trim();
             if (!text || copyPathButton.disabled) return;
-            try {
-                await navigator.clipboard.writeText(text);
-                showToast(pathToast, "Copied path!");
-            } catch (error) {
-                showToast(pathToast, "Copy failed");
-            }
+            const copied = await copyText(text);
+            showToast(pathToast, copied ? "Copied path!" : "Copy failed");
         });
 
         copyOutputButton.addEventListener("click", async () => {
             if (!outputArea.value.trim()) return;
-            try {
-                await navigator.clipboard.writeText(outputArea.value);
-                showToast(copyToast, "Output copied!");
-            } catch (error) {
-                showToast(copyToast, "Copy failed");
-            }
+            const copied = await copyText(outputArea.value);
+            showToast(copyToast, copied ? "Output copied!" : "Copy failed");
         });
 
         clearOutputButton.addEventListener("click", () => {
