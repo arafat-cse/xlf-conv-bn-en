@@ -11,7 +11,22 @@ python --version
 # or
 python3 --version
 ```
+### my system run
 
+```bash
+# Create virtual environment
+python -m venv .venv
+
+# Activate (Linux/Mac)
+source .venv/bin/activate
+```
+```bash
+# install all dependencies
+pip install -r requirements.txt
+
+# start the local server
+python app.py
+```
 ### 2. Create and activate virtual environment
 ```bash
 # Create virtual environment
