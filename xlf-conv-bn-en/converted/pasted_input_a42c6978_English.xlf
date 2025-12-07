@@ -1,0 +1,1817 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="bn" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="460742981450268191" datatype="html">
+        <source>আস-সুন্নাহ ফাউন্ডেশন</source>
+        <target>As-Sunnah Foundation</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5011932257507914869" datatype="html">
+        <source> উম্মাহর স্বার্থে, সুন্নাহর সাথে - ইসলামিক শিক্ষা, দাওয়াহ এবং সামাজিক কল্যাণে নিবেদিত একটি সংস্থা। </source>
+        <target>In the interests of the Ummah, with the Sunnah - an organization dedicated to Islamic education, da'wah and social welfare.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7104534487368522906" datatype="html">
+        <source>দ্রুত লিংক</source>
+        <target>Quick Links</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">52,53</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4732842191313043676" datatype="html">
+        <source>হোম</source>
+        <target>Home</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6872427073113900256" datatype="html">
+        <source>আমাদের সম্পর্কে</source>
+        <target>about us</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">60,61</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6090918388237348429" datatype="html">
+        <source>প্রকল্পসমূহ</source>
+        <target>projects</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">63,64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1100323898745262285" datatype="html">
+        <source>দান করুন</source>
+        <target>donate</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">67,68</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/header/header.component.html</context>
+          <context context-type="linenumber">65,66</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/hero/hero.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="668883413008940263" datatype="html">
+        <source>কার্যক্রম</source>
+        <target>Activities</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">74,75</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1315997691484930450" datatype="html">
+        <source>শিক্ষা কার্যক্রম</source>
+        <target>Educational activities</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">78,79</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">87</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6311727458788537764" datatype="html">
+        <source>দাওয়াহ</source>
+        <target>Dawah</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">81,82</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="184750703024643568" datatype="html">
+        <source>দারিদ্র্য বিমোচন</source>
+        <target>Poverty alleviation</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">85,86</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2829777382378921695" datatype="html">
+        <source>স্বাস্থ্যসেবা</source>
+        <target>Healthcare</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">88,89</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8070894760030262768" datatype="html">
+        <source>যোগাযোগ</source>
+        <target>communication</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">96,97</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6579232489312585347" datatype="html">
+        <source>ঢাকা, বাংলাদেশ</source>
+        <target>Dhaka, Bangladesh</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">104,105</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1612259428687605348" datatype="html">
+        <source>+৮৮০ ১XXX-XXXXXX</source>
+        <target>+880 1XXX-XXXXXX</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">113,114</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7279700066075804565" datatype="html">
+        <source>info@assunnah.org</source>
+        <target>info@assunnah.org</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">122,123</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">112</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7285508770310391577" datatype="html">
+        <source>© <x id="INTERPOLATION" equiv-text="{{ currentYear }}" /> আস-সুন্নাহ ফাউন্ডেশন। সর্বস্বত্ব সংরক্ষিত। </source>
+        <target /><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">135,136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7240737003202743573" datatype="html">
+        <source>গোপনীয়তা নীতি</source>
+        <target>Privacy Policy</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">140,141</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6066029233360001959" datatype="html">
+        <source>শর্তাবলী</source>
+        <target>Conditions</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/footer/footer.component.html</context>
+          <context context-type="linenumber">143,144</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5828036768524256866" datatype="html">
+        <source> উম্মাহর সেবায়, সুন্নাহর অনুসরণ</source>
+        <target>In the service of the Ummah, following the Sunnah</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/hero/hero.component.html</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4661320839349731641" datatype="html">
+        <source> শরিয়তনির্ভর শিক্ষা, দাওয়াহ এবং কল্যাণমূলক কার্যক্রমে নিয়োজিত একটি সংস্থা। কুরআন ও সুন্নাহর পথেই আমরা সমাজে ইতিবাচক পরিবর্তন আনতে কাজ করছি। </source>
+        <target>An organization engaged in Sharia-based education, da'wah and welfare activities. We are working to bring positive change in the society on the path of Quran and Sunnah.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/hero/hero.component.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4174217282339181320" datatype="html">
+        <source>আমাদের প্রকল্পসমূহ</source>
+        <target>Our projects</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/hero/hero.component.html</context>
+          <context context-type="linenumber">36,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8368202183585749068" datatype="html">
+        <source>চলমান প্রোগ্রাম</source>
+        <target>running program</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/hero/hero.component.html</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4793097560404576929" datatype="html">
+        <source>চলমান কার্যক্রমসমূহ</source>
+        <target>Ongoing activities</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/projects/projects.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1827132901033880995" datatype="html">
+        <source> আমাদের বিভিন্ন প্রকল্পের মাধ্যমে সমাজে ইতিবাচক পরিবর্তন আনছি </source>
+        <target>Bringing positive change in the society through our various projects</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/projects/projects.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/projects/projects.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4719739912399059205" datatype="html">
+        <source> বিস্তারিত দেখুন <x id="START_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;svg width=&quot;16&quot; height=&quot;16&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot;                                 stroke-width=&quot;2&quot; class=&quot;transition-transform group-hover:translate-x-1&quot;&gt;" /><x id="START_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M5 12h14M12 5l7 7-7 7&quot;&gt;" /><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;/path&gt;" /><x id="CLOSE_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;/svg&gt;" /></source>
+        <target>See details</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/projects/projects.component.html</context>
+          <context context-type="linenumber">57,62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8827610772144778481" datatype="html">
+        <source> কার্যক্রমসমূহ <x id="START_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;svg width=&quot;20&quot; height=&quot;20&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot;&gt;" /><x id="START_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;path d=&quot;M5 12h14M12 5l7 7-7 7&quot;&gt;" /><x id="CLOSE_TAG__SVG_PATH" ctype="x-_svg_path" equiv-text="&lt;/path&gt;" /><x id="CLOSE_TAG__SVG_SVG" ctype="x-_svg_svg" equiv-text="&lt;/svg&gt;" /></source>
+        <target>activities</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/projects/projects.component.html</context>
+          <context context-type="linenumber">91,95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8311477542596522097" datatype="html">
+        <source>উম্মাহর স্বার্থে, সুন্নাহর সাথে</source>
+        <target>For the sake of the Ummah, with the Sunnah</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="663457620383834693" datatype="html">
+        <source> আস-সুন্নাহ ফাউন্ডেশন একটি ইসলামিক দাওয়াহ ও সমাজসেবামূলক সংস্থা। আমরা কুরআন ও সুন্নাহর আলোকে সমাজে ইতিবাচক পরিবর্তন আনতে এবং মানুষকে সঠিক ইসলামের পথে পরিচালিত করতে প্রতিশ্রুতিবদ্ধ। </source>
+        <target>As-Sunnah Foundation is an Islamic da'wah and social service organization. We are committed to bring positive change in the society in the light of Quran and Sunnah and guide people to the right path of Islam.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="328989883881514469" datatype="html">
+        <source> আমাদের লক্ষ্য হলো ইসলামের সঠিক শিক্ষা প্রচার করা, দরিদ্র ও অসহায় মানুষদের সাহায্য করা এবং সমাজে ন্যায়বিচার ও শান্তি প্রতিষ্ঠা করা। আমরা বিশ্বাস করি যে, কুরআন ও সুন্নাহর অনুসরণের মাধ্যমেই একটি সুন্দর ও সমৃদ্ধ সমাজ গড়ে তোলা সম্ভব। </source>
+        <target>Our mission is to spread the correct teachings of Islam, help the poor and helpless people and establish justice and peace in the society. We believe that it is possible to build a beautiful and prosperous society only by following the Quran and Sunnah.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">22,24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3736562973618680870" datatype="html">
+        <source>আমাদের লক্ষ্য</source>
+        <target>our goal</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">44,45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5295304424396750461" datatype="html">
+        <source>আমাদের উদ্দেশ্য</source>
+        <target>our purpose</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">62,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7595291509628570851" datatype="html">
+        <source>আমাদের বৈশিষ্ট্য</source>
+        <target>Our features</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">82,83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1595770305213487317" datatype="html">
+        <source>আমাদের সাথে যুক্ত হন</source>
+        <target>Join us</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">101,102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4412122139791555329" datatype="html">
+        <source>আপনিও আমাদের এই মহৎ কাজে অংশীদার হতে পারেন</source>
+        <target>You too can be our partner in this great work</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">102,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6105902036253231588" datatype="html">
+        <source>স্বেচ্ছাসেবক হন</source>
+        <target>Become a volunteer</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/about/about.component.html</context>
+          <context context-type="linenumber">108,109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1394153288315672580" datatype="html">
+        <source>ব্লগ</source>
+        <target>Blog</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/blog/blog.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8895925197985015050" datatype="html">
+        <source>ইসলামি জ্ঞান, জীবনযাপন ও সমসাময়িক বিষয়ে আমাদের লেখা</source>
+        <target>Our writings on Islamic knowledge, lifestyle and contemporary issues</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/blog/blog.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="362987031698833481" datatype="html">
+        <source>আরও পড়ুন </source>
+        <target>Read more</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/blog/blog.component.html</context>
+          <context context-type="linenumber">54,55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91926678842863517" datatype="html">
+        <source>যেকোনো প্রয়োজনে আমাদের সাথে যোগাযোগ করুন </source>
+        <target>Contact us for any requirement</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4503713333948778264" datatype="html">
+        <source>বার্তা পাঠান</source>
+        <target>send message</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">39,40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1270469234813873547" datatype="html">
+        <source>আপনার নাম</source>
+        <target>your name</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">19,20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2840238211600257885" datatype="html">
+        <source>আপনার নাম লিখুন</source>
+        <target>Enter your name</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7778832618490116921" datatype="html">
+        <source>আপনার ইমেইল</source>
+        <target>your email</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2002164075164908650" datatype="html">
+        <source>আপনার ইমেইল লিখুন</source>
+        <target>Enter your email</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7917891096908363062" datatype="html">
+        <source>বিষয়</source>
+        <target>subject</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">29,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7025045621327724787" datatype="html">
+        <source>বিষয় লিখুন</source>
+        <target>Enter the subject</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4105493334302020548" datatype="html">
+        <source>আপনার বার্তা</source>
+        <target>your message</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">34,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8534309486597018492" datatype="html">
+        <source>আপনার বার্তা লিখুন</source>
+        <target>Enter your message</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/contact/contact.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6227271359003985517" datatype="html">
+        <source> আপনার প্রতিটি দান আর্তমানবতার সেবায় পৌঁছে যাবে, ইনশাআল্লাহ। </source>
+        <target>Every donation of yours will reach the service of humanity, Inshallah.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3980395858104650807" datatype="html">
+        <source>দান নিশ্চিতকরণ ফর্ম </source>
+        <target>Donation confirmation form</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="18262486862824951" datatype="html">
+        <source>অর্থ পাঠানোর পর দ্রুত নিশ্চিতকরণের জন্য ফর্মটি পূরণ করুন </source>
+        <target>Fill the form for quick confirmation after remittance</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">18,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8373960271856025696" datatype="html">
+        <source>তহবিলের ধরণ:</source>
+        <target>Fund Type:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2682705789442420335" datatype="html">
+        <source>তহবিল নির্বাচন করুন</source>
+        <target>Select funds</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">33,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6440700156986985361" datatype="html">
+        <source>সাধারণ তহবিল</source>
+        <target>General Fund</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">34,35</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">181,182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5604893053976693274" datatype="html">
+        <source>যাকাত তহবিল</source>
+        <target>Zakat Fund</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">228,229</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8841884237839664511" datatype="html">
+        <source>নির্মাণ তহবিল</source>
+        <target>Construction Fund</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">36,37</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">275,276</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8960807480130382118" datatype="html">
+        <source>লেনদেনের মাধ্যম</source>
+        <target>Medium of transaction</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1903094296504506026" datatype="html">
+        <source>ব্যাংক অথবা মোবাইল?</source>
+        <target>Bank or Mobile?</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">48,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7524277485211425939" datatype="html">
+        <source>ব্যাংক</source>
+        <target>Bank</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">49,50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6310005379473884072" datatype="html">
+        <source>মোবাইল ব্যাংকিং</source>
+        <target>Mobile banking</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">50,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4705859678326789035" datatype="html">
+        <source>মোবাইল ব্যাংকিং:</source>
+        <target>Mobile Banking:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5103404566046971593" datatype="html">
+        <source>দানকারীর নাম:</source>
+        <target>Donor's Name:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3806180429418708343" datatype="html">
+        <source>মোবাইল / ইমেইল:</source>
+        <target>Mobile / Email:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4791546336174004196" datatype="html">
+        <source>দানের পরিমাণ (টাকা):</source>
+        <target>Donation Amount (Rs):</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5829673272095629903" datatype="html">
+        <source>ট্রানজেকশন আইডি:</source>
+        <target>Transaction ID:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7444224306934713295" datatype="html">
+        <source>ব্যাংক অ্যাকাউন্ট তথ্য:</source>
+        <target>Bank Account Information:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2917594621802890542" datatype="html">
+        <source>লেনদেনের প্রমাণ (ছবি) </source>
+        <target>Proof of Transaction (Image)</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">133,134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8950423982672239439" datatype="html">
+        <source>নিশ্চিতকরণ জমা দিন </source>
+        <target>Submit confirmation</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">147,148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7194795348043256564" datatype="html">
+        <source>আপনার দান সফলভাবে নিশ্চিত করা হয়েছে! </source>
+        <target>Your donation has been successfully confirmed!</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">151,152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3881848460957650334" datatype="html">
+        <source>ব্যাংক একাউন্ট তথ্য </source>
+        <target>Bank account information</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">161,162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8737823936779727476" datatype="html">
+        <source>যেকোনো ব্যাংকের মাধ্যমে সরাসরি অনুদান পাঠাতে পারেন। </source>
+        <target>Can send direct donation through any bank.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">163,164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7882809652187853957" datatype="html">
+        <source>ব্যাংকের নাম:</source>
+        <target>Bank Name:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">185,186</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">232,233</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">279,280</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8029775592268059329" datatype="html">
+        <source>ইসলামী ব্যাংক বাংলাদেশ লিঃ</source>
+        <target>Islami Bank Bangladesh Ltd</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">187,188</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">234</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2940407983395672483" datatype="html">
+        <source>হিসাবের নাম:</source>
+        <target>Account Name:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">190,191</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">237,238</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">284,285</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5934802576768210493" datatype="html">
+        <source>As-Sunnah Foundation</source>
+        <target>As-Sunnah Foundation</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">192,193</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">239,240</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">286,287</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="65385005983437563" datatype="html">
+        <source>হিসাব নম্বর:</source>
+        <target>Account Number:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">196,197</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">243,244</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">290,291</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7001518146484647411" datatype="html">
+        <source>20507770100326100</source>
+        <target>20507770100326100</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">198,199</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2515884782326108524" datatype="html">
+        <source>শাখা:</source>
+        <target>branch:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">201,202</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">248,249</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">295,296</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5884841190366474280" datatype="html">
+        <source>বারিধারা শাখা</source>
+        <target>Baridhara branch</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">204</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">251</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="52945241618556993" datatype="html">
+        <source>রাউটিং নম্বর:</source>
+        <target>Routing Number:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">207,208</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">254,255</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">300,301</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6874398776880765444" datatype="html">
+        <source>125260563</source>
+        <target>125260563</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">209,210</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">256,257</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1043810890781508861" datatype="html">
+        <source>তথ্য কপি করুন </source>
+        <target>Copy the information</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">213,214</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">260,261</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">306,307</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6647995498631560265" datatype="html">
+        <source>20507770100326200</source>
+        <target>20507770100326200</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">245,246</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7421153561819682284" datatype="html">
+        <source>সোনালী ব্যাংক লিঃ</source>
+        <target>Sonali Bank Ltd</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">281</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7787879852086901037" datatype="html">
+        <source>0102345678901</source>
+        <target>0102345678901</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">292,293</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="707902572660783514" datatype="html">
+        <source>গুলশান শাখা</source>
+        <target>Gulshan branch</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">297</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1749680489520786025" datatype="html">
+        <source>200260123</source>
+        <target>200260123</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">302,303</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6519790669593574160" datatype="html">
+        <source>মোবাইল ব্যাংকিং </source>
+        <target>Mobile banking</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">312,313</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="532556770170543418" datatype="html">
+        <source>ব </source>
+        <target>b</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">319</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3265783211389809697" datatype="html">
+        <source>বিকাশ (মার্চেন্ট)</source>
+        <target>Vikas (Merchant)</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">321</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6763312798594146051" datatype="html">
+        <source>017xxxxxxxx</source>
+        <target>017xxxxxxxxx</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">323,324</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">336,337</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">349,350</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5416752605101552654" datatype="html">
+        <source>পেমেন্ট অপশন ব্যবহার করুন</source>
+        <target>Use the payment option</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">324,325</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">337,338</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">350,351</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1929656523882440244" datatype="html">
+        <source>ন </source>
+        <target>No</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">332</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6466416531920288745" datatype="html">
+        <source>নগদ (মার্চেন্ট)</source>
+        <target>Cash (Merchant)</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">334</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5845181089987607952" datatype="html">
+        <source>র </source>
+        <target>R</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">345</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8302550247255017783" datatype="html">
+        <source>রকেট (মার্চেন্ট)</source>
+        <target>Rocket (Merchant)</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/donate/donate.component.html</context>
+          <context context-type="linenumber">347</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2450184509144866799" datatype="html">
+        <source>গ্যালারি</source>
+        <target>Gallery</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/gallery/gallery.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3902210292799311643" datatype="html">
+        <source>আমাদের কার্যক্রমের কিছু বিশেষ মুহূর্ত</source>
+        <target>Some special moments of our activities</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/gallery/gallery.component.html</context>
+          <context context-type="linenumber">10,11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4516196182664706188" datatype="html">
+        <source>সব</source>
+        <target>all</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/gallery/gallery.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4898254180878584191" datatype="html">
+        <source>ছবি</source>
+        <target>picture</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/gallery/gallery.component.html</context>
+          <context context-type="linenumber">30,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4613316244726425158" datatype="html">
+        <source>ভিডিও</source>
+        <target>video</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/gallery/gallery.component.html</context>
+          <context context-type="linenumber">36,37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9064829147309700090" datatype="html">
+        <source>দেখুন</source>
+        <target>see</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/gallery/gallery.component.html</context>
+          <context context-type="linenumber">78,79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6053427178469516289" datatype="html">
+        <source>আরও দেখুন</source>
+        <target>See more</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/gallery/gallery.component.html</context>
+          <context context-type="linenumber">91,92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2149464124506045048" datatype="html">
+        <source>আমাদের সাথে যুক্ত হোন</source>
+        <target>Join us</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">6,7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8322761477970494403" datatype="html">
+        <source>আপনিও আমাদের এই মহৎ কাজে অংশীদার হতে পারেন—আপনার সহযোগিতায় শিক্ষা, সেবা ও দাওয়াহ আরও বেশি মানুষের কাছে পৌঁছাবে।</source>
+        <target>You too can be our partner in this great work—with your help, education, service and da'wah will reach more people.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2093235253006341722" datatype="html">
+        <source>নিয়মিত দাতা সদস্য</source>
+        <target>Regular Donor Member</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">21,22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4113763364620350911" datatype="html">
+        <source> নিয়মিত দাতা সদস্য হয়ে আপনি প্রতি মাসে একটি নির্দিষ্ট পরিমাণ অর্থ দান করতে পারেন। আপনার এই নিয়মিত সহায়তা আমাদের দীর্ঘমেয়াদি প্রকল্পগুলো পরিকল্পিতভাবে পরিচালনা ও সম্প্রসারণে গুরুত্বপূর্ণ ভূমিকা রাখে। </source>
+        <target>By becoming a regular donor member you can donate a certain amount of money every month. Your regular support plays an important role in the planned management and expansion of our long-term projects.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="408097925062807882" datatype="html">
+        <source>মাসিক ডোনেশন রিপোর্ট</source>
+        <target>Monthly Donation Report</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7733201152048882423" datatype="html">
+        <source>বিশেষ ইভেন্টে অগ্রাধিকার সুবিধা</source>
+        <target>Priority access to special events</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">40,41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7564680195716455375" datatype="html">
+        <source>ট্যাক্স সার্টিফিকেট প্রদান</source>
+        <target>Issuance of tax certificate</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">48,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5533733436948594669" datatype="html">
+        <source>নিয়মিত আপডেট ও নিউজলেটার</source>
+        <target>Regular updates and newsletters</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">56,57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="828242777923089936" datatype="html">
+        <source>নিয়মিত দাতা হন</source>
+        <target>Be a regular donor</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9186639404982985438" datatype="html">
+        <source>আজীবন দাতা সদস্য</source>
+        <target>Lifetime donor member</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">91,92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4581831930800251569" datatype="html">
+        <source> একবারে একটি উল্লেখযোগ্য পরিমাণ অর্থ দান করে আপনি<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /> আজীবন দাতা সদস্য<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /> আজীবন দাতা সদস্য হতে পারেন। আপনার এই অনুদান আমাদের <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;" /> স্থায়ী তহবিলে <x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;" /> যুক্ত হবে এবং সেখান থেকে দীর্ঘমেয়াদি ও টেকসই প্রকল্পগুলো বাস্তবায়নে ব্যয় করা হবে। </source>
+        <target>You donate a significant amount of money at once</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">93,94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4556915406029966491" datatype="html">
+        <source>আজীবন সদস্যপদ সার্টিফিকেট</source>
+        <target>Life Membership Certificate</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">102,103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3041218357236535122" datatype="html">
+        <source>বার্ষিক রিপোর্ট ও নিয়মিত আপডেট</source>
+        <target>Annual report and regular updates</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">110,111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2893730221225871115" datatype="html">
+        <source>বিশেষ স্বীকৃতি ও সম্মাননা</source>
+        <target>Special recognition and honors</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">118,119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3523504985410837452" datatype="html">
+        <source>প্রকল্প পরিদর্শনের সুযোগ</source>
+        <target>Opportunity to visit the project</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">126,127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3614582083468041294" datatype="html">
+        <source>আজীবন সদস্য হন</source>
+        <target>Become a lifetime member</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4798255016489711522" datatype="html">
+        <source>স্বেচ্ছাসেবক</source>
+        <target>volunteer</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">147,148</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5365833147270930378" datatype="html">
+        <source> আপনার সময়, দক্ষতা ও শ্রম দিয়ে আমাদের সাথে যুক্ত হয়ে মানবসেবায় অবদান রাখুন। স্বেচ্ছাসেবক হিসেবে আপনি বিভিন্ন প্রকল্পে অংশ নিতে পারবেন এবং শিক্ষা, দাওয়াহ ও সমাজসেবামূলক কার্যক্রমে সরাসরি ভূমিকা রাখতে পারবেন। </source>
+        <target>Contribute to human service by joining us with your time, skills and effort. As a volunteer, you can participate in various projects and play a direct role in education, dawah and social service activities.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5110304612248272623" datatype="html">
+        <source>আপনি যেসব ক্ষেত্রে কাজ করতে পারবেন—</source>
+        <target>Areas in which you can work—</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">152,153</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6866732204588100222" datatype="html">
+        <source>স্বেচ্ছাসেবক হিসেবে যুক্ত হন</source>
+        <target>Join as a volunteer</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">166,167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6219386279520804661" datatype="html">
+        <source>ক্যারিয়ার</source>
+        <target>career</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">197,198</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1859619281760582602" datatype="html">
+        <source> আস-সুন্নাহ ফাউন্ডেশনে আপনার ক্যারিয়ার গড়ুন। আমরা নিয়মিত বিভিন্ন পদে দক্ষ ও প্রতিশ্রুতিবদ্ধ ব্যক্তিদের নিয়োগ দিয়ে থাকি। </source>
+        <target>Build your career at As-Sunnah Foundation. We regularly recruit skilled and committed individuals for various positions.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">199,200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7082246732865286170" datatype="html">
+        <source>বর্তমানে খালি পদসমূহ:</source>
+        <target>Currently Vacant Posts:</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">203,204</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8909397303589162340" datatype="html">
+        <source>সকল পদ দেখুন</source>
+        <target>View all posts</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="451163756218117509" datatype="html">
+        <source>আরও জানতে চান?</source>
+        <target>Want to know more?</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">224,225</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4018341683529598858" datatype="html">
+        <source>আমাদের সাথে যোগাযোগ করুন এবং আপনার প্রশ্ন জিজ্ঞাসা করুন</source>
+        <target>Contact us and ask your questions</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/get-involved/get-involved.component.html</context>
+          <context context-type="linenumber">225,226</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8230336870181351921" datatype="html">
+        <source>কার্যক্রমসমূহ</source>
+        <target>activities</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/projects/projects.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2395525254142594572" datatype="html">
+        <source>বিস্তারিত দেখুন</source>
+        <target>See details</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/pages/projects/projects.component.html</context>
+          <context context-type="linenumber">44,45</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2112555616816372370" datatype="html">
+        <source>ডোনেট অ্যাপ</source>
+        <target>Donate app</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6690880038177916686" datatype="html">
+        <source>অ্যাকাউন্ট</source>
+        <target>account</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6312958040907588445" datatype="html">
+        <source>কার্যকলাপ</source>
+        <target>activity</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">7</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6780821140447203899" datatype="html">
+        <source>সক্রিয়</source>
+        <target>active</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7823468728175757393" datatype="html">
+        <source>ঠিকানা</source>
+        <target>address</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5082260555005139914" datatype="html">
+        <source>সহযোগী</source>
+        <target>associate</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5612344064897652913" datatype="html">
+        <source>জমা দিন</source>
+        <target>submit</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4874809239073954133" datatype="html">
+        <source>বাতিল</source>
+        <target>canceled</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="971529957272864769" datatype="html">
+        <source>সংরক্ষণ</source>
+        <target>saving</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="746436475307345349" datatype="html">
+        <source>মুছে ফেলুন</source>
+        <target>delete</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1831920728863887274" datatype="html">
+        <source>সম্পাদনা</source>
+        <target>editing</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8978235154138726833" datatype="html">
+        <source>নতুন</source>
+        <target>new</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8389213371500006746" datatype="html">
+        <source>সম্পদের নাম</source>
+        <target>The name of the resource</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8759234128646396517" datatype="html">
+        <source>সম্পদের নাম লিখুন</source>
+        <target>Enter the resource name</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5330991553609345130" datatype="html">
+        <source>অনুগ্রহ করে অপেক্ষা করুন...</source>
+        <target>Please wait...</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="599457280634334532" datatype="html">
+        <source>লোড হচ্ছে...</source>
+        <target>Loading...</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="907797093893145978" datatype="html">
+        <source>সফল</source>
+        <target>successful</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4355845812282964707" datatype="html">
+        <source>ত্রুটি</source>
+        <target>error</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1270172226485668186" datatype="html">
+        <source>এই ক্ষেত্রটি আবশ্যক</source>
+        <target>This field is required</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2385066810563574964" datatype="html">
+        <source>ভুল ইনপুট</source>
+        <target>Incorrect input</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1599602276978670836" datatype="html">
+        <source>একসাথে গড়ি সুন্দর ভবিষ্যৎ</source>
+        <target>Build a beautiful future together</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8791267009625233398" datatype="html">
+        <source>আমাদের সাথে যুক্ত হয়ে সমাজে ইতিবাচক পরিবর্তন আনুন। প্রতিটি অবদান একটি জীবন পরিবর্তন করতে পারে।</source>
+        <target>Join us and bring positive change in society. Every contribution can change a life.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5050612975548081523" datatype="html">
+        <source>dan korun</source>
+        <target>dan korun</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="752212000837632210" datatype="html">
+        <source>সংস্থার কার্যক্রমের চিত্র</source>
+        <target>Diagram of the organization's activities</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1440343182056496791" datatype="html">
+        <source>Donate App</source>
+        <target>Donate App</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1029591116115333203" datatype="html">
+        <source>উপকৃত মানুষ</source>
+        <target>Beneficiary people</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="360239117126139636" datatype="html">
+        <source>চলমান প্রকল্প</source>
+        <target>Ongoing project</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7247930904589499341" datatype="html">
+        <source>জেলায় কার্যক্রম</source>
+        <target>activities in the district</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">58</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8802538602106463840" datatype="html">
+        <source>দান</source>
+        <target>donation</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4590576476128972731" datatype="html">
+        <source>১০,০০০+</source>
+        <target>10,000+</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2482051811540080982" datatype="html">
+        <source>৫০+</source>
+        <target>50+</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4985123463919797301" datatype="html">
+        <source>২৫+</source>
+        <target>25+</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2572674454020836445" datatype="html">
+        <source>১,০০০+</source>
+        <target>1,000+</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3941716899253333297" datatype="html">
+        <source>আমাদের বিভিন্ন প্রকল্পের মাধ্যমে সমাজে ইতিবাচক পরিবর্তন আনছি</source>
+        <target>Bringing positive change in the society through our various projects</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8685475547711239" datatype="html">
+        <source>পূর্ববর্তী</source>
+        <target>previous</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5508703789757001397" datatype="html">
+        <source>পরবর্তী</source>
+        <target>next</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">73</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3092076907209785791" datatype="html">
+        <source>স্লাইডে যান</source>
+        <target>Go to slide</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6820735020893558748" datatype="html">
+        <source>এর ছবি</source>
+        <target>picture of</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6217609508076754493" datatype="html">
+        <source>উম্মাহর স্বার্থে, সুন্নাহর সাথে - ইসলামিক শিক্ষা, দাওয়াহ এবং সামাজিক কল্যাণে নিবেদিত একটি সংস্থা।</source>
+        <target>In the interests of the Ummah, with the Sunnah - an organization dedicated to Islamic education, da'wah and social welfare.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9211490295332197549" datatype="html">
+        <source>আস-সুন্নাহ ফাউন্ডেশন। সর্বস্বত্ব সংরক্ষিত।</source>
+        <target>As-Sunnah Foundation. All rights reserved.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4083701858229196662" datatype="html">
+        <source>ফেসবুক</source>
+        <target>Facebook</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3222289854337585965" datatype="html">
+        <source>টুইটার</source>
+        <target>Twitter</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9133025273463490633" datatype="html">
+        <source>ইউটিউব</source>
+        <target>Youtube</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8967151401405637388" datatype="html">
+        <source>ইনস্টাগ্রাম</source>
+        <target>Instagram</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6738314920607883267" datatype="html">
+        <source>আপনার দান দিয়ে পরিবর্তন আনুন</source>
+        <target>Make a difference with your donation</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4053630811890528229" datatype="html">
+        <source>আপনার উদার দানের মাধ্যমে জীবনের উপর ইতিবাচক প্রভাব ফেলুন। আজই দান করুন এবং পরিবর্তনের অংশ হন।</source>
+        <target>Make a positive impact on lives through your generous giving. Donate today and be part of the change.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7704281588948330590" datatype="html">
+        <source>এককালীন দান</source>
+        <target>One time donation</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5946643517061728420" datatype="html">
+        <source>বিকাশ</source>
+        <target>Bikash</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7585785617160894525" datatype="html">
+        <source>নগদ</source>
+        <target>cash</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5791953740590108814" datatype="html">
+        <source>রকেট</source>
+        <target>the rocket</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4944564880843655846" datatype="html">
+        <source>প্লট-৭০, রোড-৩, ব্লক-সি, আফতাবনগর, ঢাকা-১২১২</source>
+        <target>Plot-70, Road-3, Block-C, Aftabnagar, Dhaka-1212</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5874226933910080023" datatype="html">
+        <source>+৮৮০ XXXXXXXXXX</source>
+        <target>+880 XXXXXXXXXX</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3271430849590277328" datatype="html">
+        <source>ইমেইল</source>
+        <target>email</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2001189698034411044" datatype="html">
+        <source>ফোন</source>
+        <target>the phone</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">116</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8360950898262077361" datatype="html">
+        <source>দাওয়াহ কার্যক্রম</source>
+        <target>Da'wah activities</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">120</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3394550447417075672" datatype="html">
+        <source>সমাজসেবা</source>
+        <target>social service</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">121</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">131</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4335685896768058040" datatype="html">
+        <source>স্বাস্থ্যসেবা কার্যক্রম</source>
+        <target>Health care activities</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6571107221971013235" datatype="html">
+        <source>ইভেন্ট ম্যানেজমেন্ট</source>
+        <target>Event management</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">123</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4354274825707799775" datatype="html">
+        <source>প্রযুক্তি সহায়তা</source>
+        <target>Technology support</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2676513030576851812" datatype="html">
+        <source>মিডিয়া ও প্রচার</source>
+        <target>Media and publicity</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6554208522654853200" datatype="html">
+        <source>ইসলামিক শিক্ষা প্রচার</source>
+        <target>Promotion of Islamic Education</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3605406744785844292" datatype="html">
+        <source>কুরআন ও হাদিসের সঠিক শিক্ষা মানুষের কাছে পৌঁছে দেওয়া এবং ইসলামিক জ্ঞান বিতরণ করা।</source>
+        <target>To convey the correct teaching of Quran and Hadith to the people and impart Islamic knowledge.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">130</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3911921993540934704" datatype="html">
+        <source>দরিদ্র, অসহায় ও বিপদগ্রস্ত মানুষদের পাশে দাঁড়ানো এবং তাদের সাহায্য করা।</source>
+        <target>To stand by the side of poor, helpless and endangered people and help them.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3694649201758700017" datatype="html">
+        <source>ইসলামের সঠিক বার্তা প্রচার করা এবং মানুষকে সত্যের পথে আহ্বান করা।</source>
+        <target>To spread the correct message of Islam and call people to the path of truth.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8172361142590764541" datatype="html">
+        <source>শিক্ষা ও প্রশিক্ষণ</source>
+        <target>Education and training</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2271937655210806234" datatype="html">
+        <source>যুবকদের ইসলামিক শিক্ষা ও দক্ষতা উন্নয়নে প্রশিক্ষণ প্রদান করা।</source>
+        <target>To impart Islamic education and skill development training to the youth.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7270764387759716731" datatype="html">
+        <source>সমাজে ইসলামের সঠিক শিক্ষা প্রতিষ্ঠা</source>
+        <target>Establishment of correct education of Islam in the society</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1400698519699459956" datatype="html">
+        <source>কুরআন ও সুন্নাহর আলোকে সমাজে সঠিক ইসলামিক শিক্ষা প্রচার ও প্রতিষ্ঠা করা।</source>
+        <target>To promote and establish correct Islamic education in the society in the light of Quran and Sunnah.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7639482830623491704" datatype="html">
+        <source>দারিদ্র্য বিমোচন ও সামাজিক উন্নয়ন</source>
+        <target>Poverty alleviation and social development</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">145</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6630298827724213875" datatype="html">
+        <source>দরিদ্র মানুষদের আর্থিক সহায়তা প্রদান এবং তাদের জীবনমান উন্নয়নে কাজ করা।</source>
+        <target>To provide financial assistance to poor people and work to improve their quality of life.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5977511693643420934" datatype="html">
+        <source>যুব সমাজের নৈতিক উন্নয়ন</source>
+        <target>Moral development of youth society</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1681579714613593211" datatype="html">
+        <source>যুবকদের ইসলামিক মূল্যবোধ ও নৈতিকতা শিক্ষা দিয়ে সুনাগরিক হিসেবে গড়ে তোলা।</source>
+        <target>To develop the youth as good citizens by teaching them Islamic values ​​and morals.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5540693259044578852" datatype="html">
+        <source>সামাজিক সচেতনতা বৃদ্ধি</source>
+        <target>Increase social awareness</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="637076818044698120" datatype="html">
+        <source>বিভিন্ন সামাজিক সমস্যা সম্পর্কে মানুষকে সচেতন করা এবং সমাধানের পথ দেখানো।</source>
+        <target>To make people aware about various social problems and show solutions.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">150</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4699297314489636806" datatype="html">
+        <source>স্বচ্ছতা ও জবাবদিহিতা</source>
+        <target>Transparency and accountability</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">153</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7530373926578757623" datatype="html">
+        <source>আমরা আমাদের সকল কার্যক্রমে সম্পূর্ণ স্বচ্ছতা ও জবাবদিহিতা নিশ্চিত করি।</source>
+        <target>We ensure complete transparency and accountability in all our activities.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">154</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="476862992659700485" datatype="html">
+        <source>অভিজ্ঞ টিম</source>
+        <target>Experienced team</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8919027511188915279" datatype="html">
+        <source>আমাদের রয়েছে দক্ষ ও অভিজ্ঞ কর্মী ও স্বেচ্ছাসেবকদের একটি শক্তিশালী টিম।</source>
+        <target>We have a strong team of skilled and experienced staff and volunteers.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6710300481898658482" datatype="html">
+        <source>সারাদেশে নেটওয়ার্ক</source>
+        <target>Nationwide network</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8044730620180624881" datatype="html">
+        <source>দেশের বিভিন্ন জেলায় আমাদের শাখা ও কার্যক্রম রয়েছে।</source>
+        <target>We have branches and operations in different districts of the country.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">158</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3873329037014097017" datatype="html">
+        <source>দীর্ঘমেয়াদী পরিকল্পনা</source>
+        <target>Long term planning</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">159</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2441852178258329706" datatype="html">
+        <source>আমরা স্বল্পমেয়াদী ও দীর্ঘমেয়াদী উভয় ধরনের পরিকল্পনা নিয়ে কাজ করি।</source>
+        <target>We work on both short-term and long-term planning.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">160</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5953561679536848729" datatype="html">
+        <source>কমিউনিটি ভিত্তিক</source>
+        <target>Community based</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">161</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4486014979438950924" datatype="html">
+        <source>স্থানীয় কমিউনিটির সাথে মিলে কাজ করি এবং তাদের চাহিদা অনুযায়ী সেবা প্রদান করি।</source>
+        <target>We work closely with local communities and provide services according to their needs.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5712842448233244004" datatype="html">
+        <source>নিয়মিত রিপোর্টিং</source>
+        <target>Regular reporting</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2637370917198641628" datatype="html">
+        <source>আমাদের সকল কার্যক্রমের নিয়মিত রিপোর্ট প্রকাশ করি এবং দাতাদের অবহিত রাখি।</source>
+        <target>Publish regular reports on all our activities and keep donors informed.</target><context-group purpose="location">
+          <context context-type="sourcefile">src/app/shared/utilities/localization.ts</context>
+          <context context-type="linenumber">164</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
